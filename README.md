@@ -1,1 +1,1 @@
-# washing-machine-inventory
+# washing-machines-inventory
