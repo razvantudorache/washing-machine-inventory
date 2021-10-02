@@ -1,0 +1,244 @@
+{
+  "washing-machines-list": [
+    {
+      "_id": "6158adf53f255a798055f421",
+      "name": "Washing machine 0"
+    },
+    {
+      "_id": "6158adf5e4152f07da671e18",
+      "name": "Washing machine 1"
+    },
+    {
+      "_id": "6158adf5a83916a08736c5cf",
+      "name": "Washing machine 2"
+    },
+    {
+      "_id": "6158adf5a9961f09d2d636a3",
+      "name": "Washing machine 3"
+    },
+    {
+      "_id": "6158adf50661b0596c73dc64",
+      "name": "Washing machine 4"
+    },
+    {
+      "_id": "6158adf54fba2a2aeed46b16",
+      "name": "Washing machine 5"
+    },
+    {
+      "_id": "6158adf55dbf18edc0c548f2",
+      "name": "Washing machine 6"
+    },
+    {
+      "_id": "6158adf5dc9374c7f349acd4",
+      "name": "Washing machine 7"
+    },
+    {
+      "_id": "6158adf5c17e772cf2b6ea08",
+      "name": "Washing machine 8"
+    },
+    {
+      "_id": "6158adf55e4a15244fbdad5b",
+      "name": "Washing machine 9"
+    },
+    {
+      "_id": "6158adf52824a39899bd3caf",
+      "name": "Washing machine 10"
+    },
+    {
+      "_id": "6158adf5208b3b8b319d8fd1",
+      "name": "Washing machine 11"
+    },
+    {
+      "_id": "6158adf59343dfec0f249965",
+      "name": "Washing machine 12"
+    },
+    {
+      "_id": "6158adf5a443c58e9d975bfe",
+      "name": "Washing machine 13"
+    },
+    {
+      "_id": "6158adf5f807e19c7a23c6ea",
+      "name": "Washing machine 14"
+    },
+    {
+      "_id": "6158adf51a58bc55e1220cf6",
+      "name": "Washing machine 15"
+    },
+    {
+      "_id": "6158adf5be77670f22096662",
+      "name": "Washing machine 16"
+    },
+    {
+      "_id": "6158adf513adddbe1479ac72",
+      "name": "Washing machine 17"
+    },
+    {
+      "_id": "6158adf5645715385db7ba5d",
+      "name": "Washing machine 18"
+    },
+    {
+      "_id": "6158adf5c64d31f28f07acb8",
+      "name": "Washing machine 19"
+    },
+    {
+      "_id": "6158adf5175967ad696a2b08",
+      "name": "Washing machine 20"
+    },
+    {
+      "_id": "6158adf591516817bbc84016",
+      "name": "Washing machine 21"
+    },
+    {
+      "_id": "6158adf53d49f4fca97b348c",
+      "name": "Washing machine 22"
+    },
+    {
+      "_id": "6158adf582657f4c75937485",
+      "name": "Washing machine 23"
+    },
+    {
+      "_id": "6158adf532e200cc52f6bfe0",
+      "name": "Washing machine 24"
+    },
+    {
+      "_id": "6158adf5bfd89ca0e3b72c8f",
+      "name": "Washing machine 25"
+    },
+    {
+      "_id": "6158adf5f312be6f2c713cc2",
+      "name": "Washing machine 26"
+    },
+    {
+      "_id": "6158adf55a3a2bc27eba9f87",
+      "name": "Washing machine 27"
+    },
+    {
+      "_id": "6158adf573f0a77fb0b88da8",
+      "name": "Washing machine 28"
+    },
+    {
+      "_id": "6158adf5245e93109e0c6824",
+      "name": "Washing machine 29"
+    },
+    {
+      "_id": "6158adf51357193e8803dec3",
+      "name": "Washing machine 30"
+    },
+    {
+      "_id": "6158adf51823c525f20e14fc",
+      "name": "Washing machine 31"
+    },
+    {
+      "_id": "6158adf59495431fe103cdc4",
+      "name": "Washing machine 32"
+    },
+    {
+      "_id": "6158adf5b0bc1807f1a516bd",
+      "name": "Washing machine 33"
+    },
+    {
+      "_id": "6158adf57176b73520cd5830",
+      "name": "Washing machine 34"
+    },
+    {
+      "_id": "6158adf547700e38c6f94f1b",
+      "name": "Washing machine 35"
+    },
+    {
+      "_id": "6158adf5b3464d2a65dbba8c",
+      "name": "Washing machine 36"
+    },
+    {
+      "_id": "6158adf5d204207edf8a0ab9",
+      "name": "Washing machine 37"
+    },
+    {
+      "_id": "6158adf5a17eb614342f2b01",
+      "name": "Washing machine 38"
+    },
+    {
+      "_id": "6158adf5e6bddfb967c34bcc",
+      "name": "Washing machine 39"
+    },
+    {
+      "_id": "6158adf54308069c570b1ff5",
+      "name": "Washing machine 40"
+    },
+    {
+      "_id": "6158adf5ae9f3f14e6af7541",
+      "name": "Washing machine 41"
+    },
+    {
+      "_id": "6158adf5a687a8c6b5b9f391",
+      "name": "Washing machine 42"
+    },
+    {
+      "_id": "6158adf5c27516041d772481",
+      "name": "Washing machine 43"
+    },
+    {
+      "_id": "6158adf5df6c540fd20de629",
+      "name": "Washing machine 44"
+    },
+    {
+      "_id": "6158adf5b032833acb116550",
+      "name": "Washing machine 45"
+    },
+    {
+      "_id": "6158adf5b92e8f30d19fa30b",
+      "name": "Washing machine 46"
+    },
+    {
+      "_id": "6158adf552445ae04b3dec1a",
+      "name": "Washing machine 47"
+    },
+    {
+      "_id": "6158adf5bd3de678544f63a3",
+      "name": "Washing machine 48"
+    },
+    {
+      "_id": "6158adf5e686e69bc447a058",
+      "name": "Washing machine 49"
+    },
+    {
+      "_id": "6158adf5073f2d34d3af7796",
+      "name": "Washing machine 50"
+    },
+    {
+      "_id": "6158adf52885c08530bd66f9",
+      "name": "Washing machine 51"
+    },
+    {
+      "_id": "6158adf5582e590009ca44a7",
+      "name": "Washing machine 52"
+    },
+    {
+      "_id": "6158adf5ceee4c9d621759b0",
+      "name": "Washing machine 53"
+    },
+    {
+      "_id": "6158adf51ff565d5759b0815",
+      "name": "Washing machine 54"
+    },
+    {
+      "_id": "6158adf521b5d2806bf51b0a",
+      "name": "Washing machine 55"
+    },
+    {
+      "_id": "6158adf59461b5e6cd3fea4d",
+      "name": "Washing machine 56"
+    },
+    {
+      "_id": "6158adf5542b6c4a8526ca4a",
+      "name": "Washing machine 57"
+    },
+    {
+      "_id": "6158adf5cee82a2f14133ec1",
+      "name": "Washing machine 58"
+    },
+    {
+      "_id": "6158adf5c707ab633c212c52",
+      "name": "Washing machine 59"
+    }
+  ]
+}

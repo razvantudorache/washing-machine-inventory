@@ -12,8 +12,11 @@ const routes: Routes = [
     },
     {
         path: "washing-machines-list",
-        component: WashingMachinesListComponent,
         children: [
+            {
+                path: "",
+                component: WashingMachinesListComponent,
+            },
             {
                 path: "washing-machine-details/:id",
                 component: WashingMashineDetailsComponent

@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "install-global-json-server": "npm install -g json-server"
   },
   "private": true,
   "dependencies": {
