@@ -1,4 +1,6 @@
 export interface WashingMachineInterface {
-    _id: string,
-    name: string
+    id: string,
+    name: string,
+    status: string,
+    location: string
 }

@@ -11,24 +11,29 @@ import { HeaderBarComponent } from './components/header-bar/header-bar.component
 import { MatToolbarModule } from "@angular/material/toolbar";
 import { MatCardModule } from "@angular/material/card";
 import { HttpClientModule } from "@angular/common/http";
+import { MatButtonModule } from "@angular/material/button";
+import { FlexLayoutModule } from "@angular/flex-layout";
 
 @NgModule({
-  declarations: [
-    AppComponent,
-    WashingMachinesListComponent,
-    WashingMashineDetailsComponent,
-    PageNotFoundComponent,
-    HeaderBarComponent
-  ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule,
-    BrowserAnimationsModule,
-    HttpClientModule,
-    MatToolbarModule,
-    MatCardModule
-  ],
-  providers: [],
-  bootstrap: [AppComponent]
+    declarations: [
+        AppComponent,
+        WashingMachinesListComponent,
+        WashingMashineDetailsComponent,
+        PageNotFoundComponent,
+        HeaderBarComponent
+    ],
+    imports: [
+        BrowserModule,
+        AppRoutingModule,
+        BrowserAnimationsModule,
+        FlexLayoutModule,
+        HttpClientModule,
+        MatToolbarModule,
+        MatCardModule,
+        MatButtonModule
+    ],
+    providers: [],
+    bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {
+}

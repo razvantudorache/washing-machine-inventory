@@ -15,4 +15,10 @@ export class WashingMachinesListService {
 
     return this.http.get(url);
   }
+
+  public deleteWashingMachine(id: string): Observable<any> {
+    const url = `${APP_CONSTANTS.BASE_URL}/washing-machines-list/${id}`;
+
+    return this.http.delete(url);
+  }
 }

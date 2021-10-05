@@ -1,244 +1,364 @@
 {
   "washing-machines-list": [
     {
-      "_id": "6158adf53f255a798055f421",
-      "name": "Washing machine 0"
+      "id": "615c994e855831f4d32464a9",
+      "name": "Washing machine 0",
+      "location": "Hessville",
+      "status": "Out of service"
     },
     {
-      "_id": "6158adf5e4152f07da671e18",
-      "name": "Washing machine 1"
+      "id": "615c994e7a11591f791938f8",
+      "name": "Washing machine 1",
+      "location": "Linganore",
+      "status": "In use"
     },
     {
-      "_id": "6158adf5a83916a08736c5cf",
-      "name": "Washing machine 2"
+      "id": "615c994e602fdcee26491829",
+      "name": "Washing machine 2",
+      "location": "Chelsea",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf5a9961f09d2d636a3",
-      "name": "Washing machine 3"
+      "id": "615c994e58636e5bf23db196",
+      "name": "Washing machine 3",
+      "location": "Iola",
+      "status": "Out of service"
     },
     {
-      "_id": "6158adf50661b0596c73dc64",
-      "name": "Washing machine 4"
+      "id": "615c994e3bd6d75c17ef942c",
+      "name": "Washing machine 4",
+      "location": "Belva",
+      "status": "In use"
     },
     {
-      "_id": "6158adf54fba2a2aeed46b16",
-      "name": "Washing machine 5"
+      "id": "615c994ed5a91acce2cb9a7a",
+      "name": "Washing machine 5",
+      "location": "Alamo",
+      "status": "In use"
     },
     {
-      "_id": "6158adf55dbf18edc0c548f2",
-      "name": "Washing machine 6"
+      "id": "615c994e06c7d7fc95ab956e",
+      "name": "Washing machine 6",
+      "location": "Wolcott",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf5dc9374c7f349acd4",
-      "name": "Washing machine 7"
+      "id": "615c994ee4f21b416aef482c",
+      "name": "Washing machine 7",
+      "location": "Carrizo",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf5c17e772cf2b6ea08",
-      "name": "Washing machine 8"
+      "id": "615c994e9a8196df08debca4",
+      "name": "Washing machine 8",
+      "location": "Keyport",
+      "status": "In use"
     },
     {
-      "_id": "6158adf55e4a15244fbdad5b",
-      "name": "Washing machine 9"
+      "id": "615c994e5a78961f8ee10f65",
+      "name": "Washing machine 9",
+      "location": "Oneida",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf52824a39899bd3caf",
-      "name": "Washing machine 10"
+      "id": "615c994ea39b28908396216b",
+      "name": "Washing machine 10",
+      "location": "Healy",
+      "status": "Out of service"
     },
     {
-      "_id": "6158adf5208b3b8b319d8fd1",
-      "name": "Washing machine 11"
+      "id": "615c994e9075522995382824",
+      "name": "Washing machine 11",
+      "location": "Twilight",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf59343dfec0f249965",
-      "name": "Washing machine 12"
+      "id": "615c994e922124bedd5ec96b",
+      "name": "Washing machine 12",
+      "location": "Shawmut",
+      "status": "In use"
     },
     {
-      "_id": "6158adf5a443c58e9d975bfe",
-      "name": "Washing machine 13"
+      "id": "615c994eae6572be8bd00363",
+      "name": "Washing machine 13",
+      "location": "Otranto",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf5f807e19c7a23c6ea",
-      "name": "Washing machine 14"
+      "id": "615c994e5a9c85dc155c67e7",
+      "name": "Washing machine 14",
+      "location": "Newkirk",
+      "status": "Out of service"
     },
     {
-      "_id": "6158adf51a58bc55e1220cf6",
-      "name": "Washing machine 15"
+      "id": "615c994eab6e1354ec4fb3b1",
+      "name": "Washing machine 15",
+      "location": "Stonybrook",
+      "status": "Out of service"
     },
     {
-      "_id": "6158adf5be77670f22096662",
-      "name": "Washing machine 16"
+      "id": "615c994e2e0c7a76916df063",
+      "name": "Washing machine 16",
+      "location": "Hollymead",
+      "status": "Out of service"
     },
     {
-      "_id": "6158adf513adddbe1479ac72",
-      "name": "Washing machine 17"
+      "id": "615c994e50081fca1f062209",
+      "name": "Washing machine 17",
+      "location": "Ladera",
+      "status": "In use"
     },
     {
-      "_id": "6158adf5645715385db7ba5d",
-      "name": "Washing machine 18"
+      "id": "615c994e75c12967df4d0211",
+      "name": "Washing machine 18",
+      "location": "Kieler",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf5c64d31f28f07acb8",
-      "name": "Washing machine 19"
+      "id": "615c994eee0cdc9fa735e8cc",
+      "name": "Washing machine 19",
+      "location": "Disautel",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf5175967ad696a2b08",
-      "name": "Washing machine 20"
+      "id": "615c994e098c77a67722c86f",
+      "name": "Washing machine 20",
+      "location": "Grimsley",
+      "status": "Out of service"
     },
     {
-      "_id": "6158adf591516817bbc84016",
-      "name": "Washing machine 21"
+      "id": "615c994ef250ef397cf89aa7",
+      "name": "Washing machine 21",
+      "location": "Keller",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf53d49f4fca97b348c",
-      "name": "Washing machine 22"
+      "id": "615c994e099e633fe1130181",
+      "name": "Washing machine 22",
+      "location": "Retsof",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf582657f4c75937485",
-      "name": "Washing machine 23"
+      "id": "615c994eca9c2e556b163776",
+      "name": "Washing machine 23",
+      "location": "Nipinnawasee",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf532e200cc52f6bfe0",
-      "name": "Washing machine 24"
+      "id": "615c994e1a7a7b5f46eb1069",
+      "name": "Washing machine 24",
+      "location": "Hayden",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf5bfd89ca0e3b72c8f",
-      "name": "Washing machine 25"
+      "id": "615c994e9dae8b42890640e6",
+      "name": "Washing machine 25",
+      "location": "Waterview",
+      "status": "In use"
     },
     {
-      "_id": "6158adf5f312be6f2c713cc2",
-      "name": "Washing machine 26"
+      "id": "615c994eccce7cbb61d7627f",
+      "name": "Washing machine 26",
+      "location": "Inkerman",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf55a3a2bc27eba9f87",
-      "name": "Washing machine 27"
+      "id": "615c994e6b31c1e1eae6f69e",
+      "name": "Washing machine 27",
+      "location": "Grenelefe",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf573f0a77fb0b88da8",
-      "name": "Washing machine 28"
+      "id": "615c994e5edeb30cfe3cc50f",
+      "name": "Washing machine 28",
+      "location": "Fontanelle",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf5245e93109e0c6824",
-      "name": "Washing machine 29"
+      "id": "615c994e72842b64431f5bdb",
+      "name": "Washing machine 29",
+      "location": "Steinhatchee",
+      "status": "In use"
     },
     {
-      "_id": "6158adf51357193e8803dec3",
-      "name": "Washing machine 30"
+      "id": "615c994e8ba5bbc5d605b456",
+      "name": "Washing machine 30",
+      "location": "Kapowsin",
+      "status": "Out of service"
     },
     {
-      "_id": "6158adf51823c525f20e14fc",
-      "name": "Washing machine 31"
+      "id": "615c994ea09c3a151998d2e3",
+      "name": "Washing machine 31",
+      "location": "Watchtower",
+      "status": "Out of service"
     },
     {
-      "_id": "6158adf59495431fe103cdc4",
-      "name": "Washing machine 32"
+      "id": "615c994ecc2049963f94b922",
+      "name": "Washing machine 32",
+      "location": "Waiohinu",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf5b0bc1807f1a516bd",
-      "name": "Washing machine 33"
+      "id": "615c994e653526fd984220c9",
+      "name": "Washing machine 33",
+      "location": "Chesterfield",
+      "status": "Out of service"
     },
     {
-      "_id": "6158adf57176b73520cd5830",
-      "name": "Washing machine 34"
+      "id": "615c994e3f9bcd7ae5ad929e",
+      "name": "Washing machine 34",
+      "location": "Emison",
+      "status": "Out of service"
     },
     {
-      "_id": "6158adf547700e38c6f94f1b",
-      "name": "Washing machine 35"
+      "id": "615c994e9798d5285a631341",
+      "name": "Washing machine 35",
+      "location": "Beaverdale",
+      "status": "In use"
     },
     {
-      "_id": "6158adf5b3464d2a65dbba8c",
-      "name": "Washing machine 36"
+      "id": "615c994ec3123104b5320c89",
+      "name": "Washing machine 36",
+      "location": "Sehili",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf5d204207edf8a0ab9",
-      "name": "Washing machine 37"
+      "id": "615c994eadf11b2cf9267b77",
+      "name": "Washing machine 37",
+      "location": "Loma",
+      "status": "In use"
     },
     {
-      "_id": "6158adf5a17eb614342f2b01",
-      "name": "Washing machine 38"
+      "id": "615c994edd69282d3f297b3d",
+      "name": "Washing machine 38",
+      "location": "Oretta",
+      "status": "In use"
     },
     {
-      "_id": "6158adf5e6bddfb967c34bcc",
-      "name": "Washing machine 39"
+      "id": "615c994e9df3a9a74c9e8ab6",
+      "name": "Washing machine 39",
+      "location": "Enoree",
+      "status": "In use"
     },
     {
-      "_id": "6158adf54308069c570b1ff5",
-      "name": "Washing machine 40"
+      "id": "615c994eeeb3255a1001ee40",
+      "name": "Washing machine 40",
+      "location": "Westboro",
+      "status": "Out of service"
     },
     {
-      "_id": "6158adf5ae9f3f14e6af7541",
-      "name": "Washing machine 41"
+      "id": "615c994e08e733b4f1b852a6",
+      "name": "Washing machine 41",
+      "location": "Como",
+      "status": "In use"
     },
     {
-      "_id": "6158adf5a687a8c6b5b9f391",
-      "name": "Washing machine 42"
+      "id": "615c994e485b6dcfc9237b69",
+      "name": "Washing machine 42",
+      "location": "Vowinckel",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf5c27516041d772481",
-      "name": "Washing machine 43"
+      "id": "615c994e91173b6cc7d04493",
+      "name": "Washing machine 43",
+      "location": "Taycheedah",
+      "status": "In use"
     },
     {
-      "_id": "6158adf5df6c540fd20de629",
-      "name": "Washing machine 44"
+      "id": "615c994ec0f89266f48595ed",
+      "name": "Washing machine 44",
+      "location": "Imperial",
+      "status": "Out of service"
     },
     {
-      "_id": "6158adf5b032833acb116550",
-      "name": "Washing machine 45"
+      "id": "615c994e911046207a214f74",
+      "name": "Washing machine 45",
+      "location": "Bradenville",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf5b92e8f30d19fa30b",
-      "name": "Washing machine 46"
+      "id": "615c994e2818c54b1f43c7d6",
+      "name": "Washing machine 46",
+      "location": "Williams",
+      "status": "In use"
     },
     {
-      "_id": "6158adf552445ae04b3dec1a",
-      "name": "Washing machine 47"
+      "id": "615c994e2ed59d98588027a1",
+      "name": "Washing machine 47",
+      "location": "Somerset",
+      "status": "In use"
     },
     {
-      "_id": "6158adf5bd3de678544f63a3",
-      "name": "Washing machine 48"
+      "id": "615c994e848c687485fa4303",
+      "name": "Washing machine 48",
+      "location": "Comptche",
+      "status": "In use"
     },
     {
-      "_id": "6158adf5e686e69bc447a058",
-      "name": "Washing machine 49"
+      "id": "615c994e0b7ba6fd13b3771c",
+      "name": "Washing machine 49",
+      "location": "Day",
+      "status": "In use"
     },
     {
-      "_id": "6158adf5073f2d34d3af7796",
-      "name": "Washing machine 50"
+      "id": "615c994e0959fd534dbb80c7",
+      "name": "Washing machine 50",
+      "location": "Balm",
+      "status": "Out of service"
     },
     {
-      "_id": "6158adf52885c08530bd66f9",
-      "name": "Washing machine 51"
+      "id": "615c994e33106ab0e35b8588",
+      "name": "Washing machine 51",
+      "location": "Harviell",
+      "status": "In use"
     },
     {
-      "_id": "6158adf5582e590009ca44a7",
-      "name": "Washing machine 52"
+      "id": "615c994ed46386a5e5b2da59",
+      "name": "Washing machine 52",
+      "location": "Sardis",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf5ceee4c9d621759b0",
-      "name": "Washing machine 53"
+      "id": "615c994e2eff62f52ded1cb4",
+      "name": "Washing machine 53",
+      "location": "Teasdale",
+      "status": "Out of service"
     },
     {
-      "_id": "6158adf51ff565d5759b0815",
-      "name": "Washing machine 54"
+      "id": "615c994e01236ef84898503b",
+      "name": "Washing machine 54",
+      "location": "Levant",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf521b5d2806bf51b0a",
-      "name": "Washing machine 55"
+      "id": "615c994e1577b859cd97184d",
+      "name": "Washing machine 55",
+      "location": "Salunga",
+      "status": "In use"
     },
     {
-      "_id": "6158adf59461b5e6cd3fea4d",
-      "name": "Washing machine 56"
+      "id": "615c994e174f90f8710a0d50",
+      "name": "Washing machine 56",
+      "location": "Homeworth",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf5542b6c4a8526ca4a",
-      "name": "Washing machine 57"
+      "id": "615c994e8975c65b05b5545e",
+      "name": "Washing machine 57",
+      "location": "Dahlen",
+      "status": "Need reparation"
     },
     {
-      "_id": "6158adf5cee82a2f14133ec1",
-      "name": "Washing machine 58"
+      "id": "615c994e946d4ea7e7ef87ee",
+      "name": "Washing machine 58",
+      "location": "Tyhee",
+      "status": "In use"
     },
     {
-      "_id": "6158adf5c707ab633c212c52",
-      "name": "Washing machine 59"
+      "id": "615c994e70cfd6ee316d40a0",
+      "name": "Washing machine 59",
+      "location": "Chestnut",
+      "status": "In use"
     }
   ]
 }

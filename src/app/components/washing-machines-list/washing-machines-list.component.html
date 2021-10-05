@@ -1,3 +1,23 @@
 <mat-card class="washing-machine" *ngFor="let item of washingMachinesList">
     <mat-card-title>{{item.name}}</mat-card-title>
+
+    <mat-card-content fxLayout="row" fxLayout.xs="column" fxLayoutAlign.xs="center center">
+        <img class="icon" src="assets/washing-machine.png">
+
+        <div class="details">
+            <div class="location">
+                <span class="label">Assigned to:</span>
+                <span class="value">{{item.location}}</span>
+            </div>
+            <div class="status">
+                <span class="label">Status:</span>
+                <span class="value">{{item.status}}</span>
+            </div>
+        </div>
+    </mat-card-content>
+
+    <mat-card-actions align="end">
+        <button mat-button color="warn" (click)="deleteMachine(item.id)">Delete</button>
+        <button mat-button color="primary" (click)="editMachine(item.id)">Edit</button>
+    </mat-card-actions>
 </mat-card>
