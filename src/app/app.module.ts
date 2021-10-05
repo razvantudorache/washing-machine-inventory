@@ -13,6 +13,8 @@ import { MatCardModule } from "@angular/material/card";
 import { HttpClientModule } from "@angular/common/http";
 import { MatButtonModule } from "@angular/material/button";
 import { FlexLayoutModule } from "@angular/flex-layout";
+import { MatIconModule } from "@angular/material/icon";
+import { MatMenuModule } from "@angular/material/menu";
 
 @NgModule({
     declarations: [
@@ -30,7 +32,9 @@ import { FlexLayoutModule } from "@angular/flex-layout";
         HttpClientModule,
         MatToolbarModule,
         MatCardModule,
-        MatButtonModule
+        MatButtonModule,
+        MatIconModule,
+        MatMenuModule
     ],
     providers: [],
     bootstrap: [AppComponent]

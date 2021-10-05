@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { WashingMachinesListService } from "./washing-machines-list.service";
 import { WashingMachineInterface } from "../washing-mashine-details/washing-machine.interface";
 import { ActivatedRoute, Router } from "@angular/router";
+import * as _ from "lodash";
 
 @Component({
   selector: 'app-washing-machines-list',
@@ -33,7 +34,9 @@ export class WashingMachinesListComponent implements OnInit {
 
   public deleteMachine(machineId: string) {
     this.washingMachinesListService.deleteWashingMachine(machineId).subscribe((response) => {
-
+      _.remove(this.washingMachinesList, (item) => {
+        return item.id === machineId;
+      });
     });
   }
 }
