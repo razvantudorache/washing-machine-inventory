@@ -1,0 +1,36 @@
+<mat-card>
+    <mat-card-title>
+        <mat-form-field>
+            <input matInput [(ngModel)]="details.name">
+        </mat-form-field>
+    </mat-card-title>
+
+    <mat-card-content>
+        <div class="imageContainer">
+            <img class="image" src="assets/washing-machine.png">
+        </div>
+        <div class="details" fxLayout="row">
+            <div class="location">
+                <mat-form-field>
+                    <mat-label>Location</mat-label>
+                    <mat-select [(value)]="details.location">
+                        <mat-option *ngFor="let option of locationOptions" [value]="option">{{option}}</mat-option>
+                    </mat-select>
+                </mat-form-field>
+            </div>
+            <div class="status">
+                <mat-form-field>
+                    <mat-label>Status</mat-label>
+                    <mat-select [(value)]="details.status">
+                        <mat-option *ngFor="let option of statusOptions" [value]="option">{{option}}</mat-option>
+                    </mat-select>
+                </mat-form-field>
+            </div>
+        </div>
+
+    </mat-card-content>
+
+    <mat-card-actions align="end">
+        <button mat-button mat-raised-button color="primary" (click)="save(details.id)">Save</button>
+    </mat-card-actions>
+</mat-card>

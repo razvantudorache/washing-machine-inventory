@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { WashingMachinesListService } from "./washing-machines-list.service";
-import { WashingMachineInterface } from "../washing-mashine-details/washing-machine.interface";
+import { WashingMachineInterface } from "../washing-machine-details/washing-machine.interface";
 import { ActivatedRoute, Router } from "@angular/router";
 import * as _ from "lodash";
 
