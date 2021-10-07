@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { WashingMachineInterface } from "./washing-machine.interface";
 import { WashingMachineDetailsService } from "./washing-machine-details.service";
 import { ActivatedRoute } from "@angular/router";
+import { MatSnackBar } from "@angular/material/snack-bar";
 
 @Component({
   selector: 'app-washing-machine-details',
@@ -21,7 +22,8 @@ export class WashingMachineDetailsComponent implements OnInit {
   public locationOptions = [];
 
   constructor(private washingMachineDetailsService: WashingMachineDetailsService,
-              private route: ActivatedRoute) { }
+              private route: ActivatedRoute,
+              private snackBar: MatSnackBar) { }
 
   ngOnInit(): void {
     this.getDetails();
@@ -53,7 +55,7 @@ export class WashingMachineDetailsComponent implements OnInit {
 
   public save(id: string) {
     this.washingMachineDetailsService.saveDetails(id, this.details).subscribe((response) => {
-      console.log("success");
+      this.snackBar.open("Details successfully saved!");
     });
   }
 }
