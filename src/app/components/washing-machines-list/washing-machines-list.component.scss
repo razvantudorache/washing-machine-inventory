@@ -2,11 +2,12 @@
 
 :host {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
   align-items: center;
 
   .washing-machine {
-    width: 50vw;
+    width: 30%;
     margin-bottom: 15px;
 
     .mat-card-title {

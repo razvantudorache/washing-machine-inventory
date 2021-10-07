@@ -55,7 +55,9 @@ export class WashingMachineDetailsComponent implements OnInit {
 
   public save(id: string) {
     this.washingMachineDetailsService.saveDetails(id, this.details).subscribe((response) => {
-      this.snackBar.open("Details successfully saved!");
+      this.snackBar.open("Details successfully saved!", "", {
+        duration: 2000
+      });
     });
   }
 }
