@@ -5,6 +5,7 @@
 
   .main-container {
     flex: 1;
-    margin: 40px;
+    padding: 40px;
+    overflow: auto;
   }
 }

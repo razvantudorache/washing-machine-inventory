@@ -1,3 +1,7 @@
-:host {
-
+@media screen and (max-width: 768px) {
+  :host {
+    .mat-toolbar {
+      font-size: 14px;
+    }
+  }
 }

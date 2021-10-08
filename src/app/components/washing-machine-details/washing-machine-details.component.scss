@@ -27,6 +27,8 @@
       }
 
       .details {
+        display: flex;
+        flex-direction: row;
         margin-top: 20px;
 
         .location, .status {
@@ -37,9 +39,38 @@
           margin-right: 20px;
         }
       }
-
-
     }
   }
 
+}
+
+@media screen and (max-width: 768px) {
+  :host {
+    .mat-card {
+      width: 60vw;
+      min-width: auto;
+
+      .mat-card-title {
+        font-size: 14px;
+      }
+
+      .mat-card-content {
+        font-size: 12px;
+
+        .imageContainer {
+          height: 100px;
+        }
+
+        .details {
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+
+          .location {
+            margin-right: unset;
+          }
+        }
+      }
+    }
+  }
 }

@@ -1,4 +1,4 @@
-@import "src/styles/theme-colors";
+@import "src/styles/colors";
 
 :host {
   display: flex;
@@ -15,6 +15,9 @@
     }
 
     .mat-card-content {
+      display: flex;
+      flex-direction: row;
+
       .icon {
         object-fit: contain;
         width: 100px;
@@ -24,16 +27,45 @@
       .details {
         margin-left: 20px;
 
-        .label {
-          color: $textColor;
+        .label, .value {
           font-size: 16px;
-          margin-right: 10px;
         }
 
-        .value {
-          font-size: 16px;
+        .label {
+          color: $textColor;
+          margin-right: 10px;
         }
       }
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  :host {
+    flex-direction: column;
+
+    .washing-machine {
+      width: 60vw;
+
+      .mat-card-title {
+        font-size: 14px;
+      }
+
+      .mat-card-content {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        .details {
+          margin-left: unset;
+          margin-top: 15px;
+
+          .label, .value {
+            font-size: 12px;
+          }
+        }
+      }
+
     }
   }
 }
