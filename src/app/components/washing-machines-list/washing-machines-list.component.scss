@@ -40,6 +40,14 @@
   }
 }
 
+@media screen and (max-width: 1024px) {
+  :host {
+    .washing-machine {
+      width: 40%;
+    }
+  }
+}
+
 @media screen and (max-width: 768px) {
   :host {
     flex-direction: column;
